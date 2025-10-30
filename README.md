@@ -1,6 +1,6 @@
 # Pokemon Memory Match
 
-**Flip. Match. Win!**  
+**Flip. Match. Win!** 
 A classic **memory card game** with **Pokemon energy types**, built using **Java Swing**.
 
 ---

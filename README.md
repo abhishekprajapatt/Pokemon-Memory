@@ -29,21 +29,19 @@ A classic **memory card game** with **Pokemon energy types**, built using **Java
 ```
 MemoryCards/
 │
-├── src/
-│   ├── MemoryCards.java     # Game logic + GUI
-│   └── App.java             # Main entry point
+│── MemoryCards.java     # Game logic + GUI
+│── App.java             # Main entry point
 │
-├── img/                     # Required images
+├── assets/                     # Required images
 │   ├── back.jpg             # Card back
 │   ├── darkness.jpg
 │   ├── fire.jpg
 │   └── ... (10 total)
 │
-├── screenshots/             # Optional (for README)
 └── README.md
 ```
 
-> **Important**: Place all 10 energy images + `back.jpg` in the `img/` folder.
+> **Important**: Place all 10 energy images + `back.jpg` in the `assets/` folder.
 
 ---
 

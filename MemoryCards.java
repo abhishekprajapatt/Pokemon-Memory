@@ -48,7 +48,7 @@ public class MemoryCards {
     int player1Score = 0, player2Score = 0;
 
     MemoryCards() {
-        setupDifficulty(1); // Default: Medium
+        setupDifficulty(1);
         setupUI();
         startNewGame();
     }

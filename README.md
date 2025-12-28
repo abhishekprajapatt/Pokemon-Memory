@@ -5,7 +5,7 @@ A classic **memory card game** with **Pokemon energy types**, built using **Java
 
 ---
 
-## Features
+## 🚀 Features
 
 - **4×5 grid** (20 cards, 10 unique types)
 - **Error counter** – counts failed matches
@@ -16,7 +16,7 @@ A classic **memory card game** with **Pokemon energy types**, built using **Java
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 | All Cards Hidden | Matching in Progress | Errors Counted |
 |------------------|------------------------|----------------|
@@ -45,7 +45,7 @@ MemoryCards/
 
 ---
 
-## How to Run
+## 📦 How to Run
 
 ### Using IDE (IntelliJ, Eclipse, VS Code)
 

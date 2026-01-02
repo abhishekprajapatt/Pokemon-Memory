@@ -64,7 +64,7 @@ java -cp bin App
 
 ---
 
-## Game Rules
+## 👾 Game Rules
 
 - Click a card to flip it
 - Find **two matching cards** to keep them revealed
